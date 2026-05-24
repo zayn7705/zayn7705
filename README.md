@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS @ Georgia Tech
 -----------------
 
-Hello! My name is Zayn Ullah and I am a Computer Science student at Georgia Tech with a passion for software development, machine learning, and scalable systems—and unfortunately Atlanta sports teams :( I’m eager to use my technical skills in a Software Engineering, Data Science, or AI/ML Internship where I can work on real-world problems and collaborate with innovative people where I can contribute, learn, and grow.
-
+Hello! Welcome to my personal GitHub account! You can access my work GitHub account here: https://github.com/ullahzayn
 *   🌍  I'm based in Atlanta
 *   ✉️  You can contact me at [zayn7705@gmail.com](mailto:zayn7705@gmail.com)
 *   🚀  I'm currently working on [Syl](http://sylcampus.com)
